@@ -1,9 +1,9 @@
 "use client";
 
 import React, { useState } from "react";
-import { Container } from "@/components/ui/Container";
-import { Button } from "@/components/ui/Button";
-import { Card } from "@/components/ui/Card";
+import { Container } from "@/components/common/Container";
+import { Button } from "@/components/common/Button";
+import { Card } from "@/components/common/Card";
 import { Mail, Phone, MapPin, Send } from "lucide-react";
 
 export const ContactSection: React.FC = () => {

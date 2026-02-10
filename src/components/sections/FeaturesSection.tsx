@@ -1,5 +1,5 @@
 import React from "react";
-import { Container } from "@/components/ui/Container";
+import { Container } from "@/components/common/Container";
 import { Check, Zap, Lock, BarChart, Globe, RefreshCw } from "lucide-react";
 
 export const FeaturesSection: React.FC = () => {

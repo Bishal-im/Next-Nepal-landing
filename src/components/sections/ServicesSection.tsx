@@ -1,6 +1,6 @@
 import React from "react";
-import { Container } from "@/components/ui/Container";
-import { Card } from "@/components/ui/Card";
+import { Container } from "@/components/common/Container";
+import { Card } from "@/components/common/Card";
 import {
   Code,
   Smartphone,

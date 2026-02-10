@@ -1,6 +1,6 @@
 import React from "react";
-import { Container } from "@/components/ui/Container";
-import { Button } from "@/components/ui/Button";
+import { Container } from "@/components/common/Container";
+import { Button } from "@/components/common/Button";
 import { ArrowRight, Sparkles } from "lucide-react";
 
 export const HeroSection: React.FC = () => {

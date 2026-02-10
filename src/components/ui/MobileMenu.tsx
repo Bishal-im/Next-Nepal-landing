@@ -3,7 +3,7 @@
 import React from "react";
 import { X } from "lucide-react";
 import { NavLink } from "@/types";
-import { Button } from "@/components/ui/Button";
+import { Button } from "../common/Button";
 
 interface MobileMenuProps {
   isOpen: boolean;

@@ -2,9 +2,9 @@
 
 import React, { useState } from "react";
 import { Menu } from "lucide-react";
-import { Container } from "@/components/ui/Container";
-import { Button } from "@/components/ui/Button";
-import { MobileMenu } from "@/components/common/MobileMenu";
+import { Container } from "@/components/common/Container";
+import { Button } from "@/components/common/Button";
+import { MobileMenu } from "@/components/ui/MobileMenu";
 import { NavLink } from "@/types";
 
 const navLinks: NavLink[] = [
